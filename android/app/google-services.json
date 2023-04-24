@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576295940263",
+    "project_id": "chat-me-app-ff833",
+    "storage_bucket": "chat-me-app-ff833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576295940263:android:c998f640bc182027976b82",
+        "android_client_info": {
+          "package_name": "com.example.socket_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576295940263-9tcnaoe8do1eeocb31nrdd6a0ha3k3vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQYaZ1lv7w9oPzHPPo-f4pezNMGXXrIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576295940263-9tcnaoe8do1eeocb31nrdd6a0ha3k3vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
